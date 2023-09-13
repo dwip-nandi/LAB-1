@@ -10,4 +10,4 @@ int main()
     b=temp;
     printf("Result : %d  %d",a,b);
     return 0;
-}Reinitialized existing Git repository in C:/Users/HP/Documents/program.c/lab-problem/lab-1/.git
+} 
